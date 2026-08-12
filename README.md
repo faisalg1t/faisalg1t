@@ -38,7 +38,7 @@ powered by yt-dlp and FastAPI.
 Text-to-Speech & Speech-to-Text web app. Python (Flask) backend, vanilla JS frontend,<br>
 clean architecture, ready to scale.
 
-**[GitHub-Profile-API](https://github.com/faisalg1t/github-profile-api)** &nbsp;·&nbsp; <samp>java, glsl</samp><br>
+**[GitHub-Profile-API](https://github.com/faisalg1t/github-profile-api)** &nbsp;·&nbsp; <samp>typescript, rest-api</samp><br>
 Self-hosted API that generates dynamic SVG cards and JSON summaries for any GitHub profile<br>
 GitHub GraphQL + REST APIs (no third-party data broker, no scraping).
 
