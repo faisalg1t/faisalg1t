@@ -4,8 +4,8 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[discord](https://dsc.gg/kopee) &nbsp;·&nbsp;
-[telegram](https://t.me/join_peko) &nbsp;·&nbsp;
+[discord](https://discord.gg/TGF3fCXtRm) &nbsp;·&nbsp;
+[telegram](https://t.me/alexzpy) &nbsp;·&nbsp;
 [youtube](https://youtube.com/@cyeroxdev) &nbsp;·&nbsp;
 [instagram](https://www.instagram.com/alexzzpy)
 
@@ -13,11 +13,11 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Student developer. Founder of [Dxeonix](https://dsc.gg/kopee), a dev community<br>
+> Student developer. Founder of [Eleone Hub](https://github.com/eleone), a dev community<br>
 > built around the process of turning ideas into real things.
 
 I build Discord bots, Telegram bots and the tooling around them. Most of what I ship lives inside<br>
-[Dxeonix Development](https://github.com/faisalg1t), 1.5k+ members, from concept to commit.<br>
+[Eleone Hub](https://discord.gg/TGF3fCXtRm), 1.5k+ members, from concept to commit.<br>
 Also deep into Minecraft plugin/mod development and open-source bot infrastructure.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
