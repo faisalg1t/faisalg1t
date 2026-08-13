@@ -13,7 +13,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Student developer. Founder of [Eleone Hub](https://github.com/eleone), a dev community<br>
+> Student developer. Founder of [Eleone Hub](https://github.com/eleonehub), a dev community<br>
 > built around the process of turning ideas into real things.
 
 I build Discord bots, Telegram bots and the tooling around them. Most of what I ship lives inside<br>
