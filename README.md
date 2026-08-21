@@ -7,7 +7,7 @@
 [discord](https://discord.gg/TGF3fCXtRm) &nbsp;·&nbsp;
 [telegram](https://t.me/alexzpy) &nbsp;·&nbsp;
 [youtube](https://youtube.com/@cyeroxdev) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/alexzzpy)
+[instagram](https://www.instagram.com/faisal.jsz)
 
 </div>
 
